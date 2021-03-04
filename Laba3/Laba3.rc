@@ -97,9 +97,9 @@ END
 // Bitmap
 //
 
-IDB_BITMAP1             BITMAP                  "D:\\OS_Pictures\\enotik.bmp"
+IDB_BITMAP1             BITMAP                  "C:\Users\Алексей\Desktop\Pictures\Operating Systems\enotik.bmp"
 
-IDB_BITMAP2             BITMAP                  "D:\\OS_Pictures\\hvala_solncu.bmp"
+IDB_BITMAP2             BITMAP                  "C:\Users\Алексей\Desktop\Pictures\Operating Systems\hvala_solncu.bmp"
 
 #endif    // Русский (Россия) resources
 /////////////////////////////////////////////////////////////////////////////
